@@ -1,5 +1,6 @@
 [
 	[
+		["email_address", "is_deactivated", "user_company", "user_department", "user_first_name", "user_full_name", "user_id", "user_job_title", "user_last_name", "user_phone", "user_role", "when_added", "when_removed"],
 		["asevillano@reyma.com.mx", "f", "GRUPO REYES", "", "ABRAHAM", "ABRAHAM SEVILLANO", "4723349", "Consulting/Professional Services", "SEVILLANO", "+52 4777889900", "Owner", "2018-09-09 12:30:21", "3000-01-01 00:00:00"],
 		["robot2301252reminder@wrike-robot.com", "f", "", "", "Wrike", "Wrike Bot", "4723354", "", "Bot", "", "Bot", "2018-09-09 12:33:20", "3000-01-01 00:00:00"],
 		["mmata@reyma.com.mx", "f", "Reyma", "Auditoria Corporativa", "Montserrat", "Montserrat Mata", "4728479", "Auditoria", "Mata", "", "User", "2018-09-10 11:43:26", "3000-01-01 00:00:00"],
