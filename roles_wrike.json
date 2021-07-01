@@ -5,6 +5,7 @@
 		["Bot", 7],
 		["Collaborator", 73],
 		["Owner", 1],
-		["User", 17]
+		["User", 17],
+		["Other", 100]
 	]
 ]
